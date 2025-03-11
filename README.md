@@ -103,7 +103,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200px">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400px">
 </p>
 
 🚀 **Seja bem-vindo ao meu GitHub! Vamos construir algo incrível juntos.** ✨  
