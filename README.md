@@ -15,10 +15,6 @@
 
 ## 🌸 Sobre Mim  
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB0d2Rwd3YyeG44emplZTZiOTQ3dG1sbHRta2hudmFoNXExZmllOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif" width="400px">
-</p>
-
 🎯 Amo transformar código em soluções inteligentes e escaláveis.  
 ⚡ Interesse especial em **microservices, cloud e arquitetura distribuída**.  
 🌱 Sempre aprendendo algo novo e explorando novas tecnologias.  
@@ -60,9 +56,8 @@
 
 ---
 
-## 🎨 Estilo e Personalização  
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNreWozb3VraGl3OWcxbmFkNHNvZmoyamJuZHFkYjlpZDJzNzZoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1WL5qUxmKBvOM/giphy.gif" width="400">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB0d2Rwd3YyeG44emplZTZiOTQ3dG1sbHRta2hudmFoNXExZmllOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif" width="400px">
 </p>
 
 🌸 Aqui é um espaço onde compartilho projetos, exploro tecnologias e **me divirto programando!**  
