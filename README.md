@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnllZnRqNHJwc3huemg5am1mZDVhMG5qM3luaTg3NmtqdWhkbHdveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bdhq6YF0szPaCEk9Y/giphy.gif" width="35px">
-  Oi, eu sou a Bárbara! 💖
+  Hi, I'm Bárbara! 💖
 </h1>
 
 <p align="center">
@@ -8,22 +8,32 @@
 </p>
 
 <p align="center">
-  💻 Backend Developer | Java | Python | Cloud Enthusiast ☁️  
+  💻 Backend Developer | Python & Java | Cloud Enthusiast | Bioinformatics Learner ☁️🧬
 </p>
 
 ---
 
-## 🌸 Sobre Mim  
+## 🌸 About Me  
 
-🎯 Amo transformar código em soluções inteligentes e escaláveis.  
-⚡ Interesse especial em **microservices, cloud e arquitetura distribuída**.  
-🌱 Sempre aprendendo algo novo e explorando novas tecnologias.  
+🎯 I love turning code into smart, scalable solutions.  
+⚡ Currently transitioning into **bioinformatics**, combining my software engineering skills with biological data.  
+🌱 Always learning something new and exploring emerging technologies.  
+💡 Passionate about clean code, minimalistic design, and purpose-driven programming.
+
+---
+
+## 🧪 Bioinformatics in Progress  
+
+🧬 Building RNA-Seq pipelines with real public datasets (GEO).  
+🧬 Automating genetic sequence analysis using Python and Biopython.  
+🧬 Exploring cloud-based workflows (AWS + Docker + Snakemake).  
+🧬 Excited to contribute to research and healthcare through code.
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **💡 Linguagens & Frameworks**  
+### **💡 Languages & Frameworks**  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -39,13 +49,13 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 
-### **🗄️ Bancos de Dados**  
+### **🗄️ Databases**  
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </p>
 
-### **🔧 Ferramentas & Metodologias**  
+### **🔧 Tools & Methodologies**  
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
@@ -60,9 +70,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB0d2Rwd3YyeG44emplZTZiOTQ3dG1sbHRta2hudmFoNXExZmllOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif" width="400px">
 </p>
 
-🌸 Aqui é um espaço onde compartilho projetos, exploro tecnologias e **me divirto programando!**  
-🎨 Adoro designs minimalistas e códigos bem organizados.  
-💡 **Dica**: Sempre documente seu código e deixe ele bonito também! ✨  
+🌸 This is my space to share projects, explore technology and **have fun coding!**  
+🎨 I love minimalist design and clean code.  
+📚 Currently working on personal bioinformatics pipelines and cloud solutions.
 
 ---
 
@@ -74,9 +84,9 @@
 
 ---
 
-## 🎵 Mood enquanto programo  
+## 🎧 Coding Mood  
 <p align="center">
-  🎧 "Coding com música boa fica ainda melhor!"  
+  Music helps my brain debug faster 😄  
   <br>  
   <a href="https://open.spotify.com/intl-pt/artist/630wzNP2OL7fl4Xl0GnMWq?si=6YDFPpmEQwSdf7OzAHYJFQ">
     <img src="https://img.shields.io/badge/Spotify-Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
@@ -85,7 +95,7 @@
 
 ---
 
-## 📫 Como me encontrar?  
+## 📫 Let's Connect  
 <p align="center">
   <a href="https://linkedin.com/in/babecastro">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -101,4 +111,4 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400px">
 </p>
 
-🚀 **Seja bem-vindo ao meu GitHub! Vamos construir algo incrível juntos.** ✨  
+🚀 **Welcome to my GitHub! Let’s build something amazing together.** ✨
